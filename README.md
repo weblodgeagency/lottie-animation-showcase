@@ -6,8 +6,12 @@ Premium Lottie animations ready to use for websites and apps
 
 ## Preview
 <p align="center">
-  <img src="GIF1_URL" width="250"/>
-  <img src="GIF2_URL" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/03/Social-media-icon.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/03/Landingpage.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/03/Preloader.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/03/Logo.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/03/App-promo-Lottie-JSON-animation.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/03/Splash-screen.gif" width="250"/>
 </p>
 
 ## What this does
@@ -19,4 +23,4 @@ These Lottie animations can be added directly to websites or apps to enhance UX 
 ✔ Easy to integrate  
 
 ## Live Demo
-[View Live](DEMO_LINK_IF_AVAILABLE)
+[View Live](https://weblodge.agency/portfolios)
